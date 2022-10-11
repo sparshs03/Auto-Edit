@@ -1,3 +1,6 @@
+# Disclaimer
+This Tool is a Proof of Concept and for Educational Purposes Only
+
 # Auto-Edit
 Cuts up a video and merges clips to bypass youtube copyright restrictions
 
